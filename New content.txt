@@ -9,4 +9,8 @@ Change of the content
 Second change of content
 =======
 New content
+<<<<<<< HEAD
 >>>>>>> c5f08819568ec5fd2d4d57f1de3a3c0166297a2c
+=======
+New content
+>>>>>>> f77d940a957e27deae18a6f041ba91afb7dfce71
